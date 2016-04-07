@@ -1,0 +1,65 @@
+2016/04/07 10:15:28 [notice] 7176#1616: signal process started
+2016/04/07 10:15:28 [error] 7176#1616: CreateFile() "D:\nginx-1.9.13/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/04/07 10:18:18 [notice] 7784#1616: signal process started
+2016/04/07 10:21:21 [notice] 8376#5932: signal process started
+2016/04/07 10:47:31 [emerg] 1616#8364: reuseport is not supported on this platform, ignored in D:\nginx-1.9.13/conf/nginx.conf:2
+2016/04/07 10:47:31 [emerg] 1616#8364: no "events" section in configuration
+2016/04/07 10:48:10 [emerg] 8504#1052: reuseport is not supported on this platform, ignored in D:\nginx-1.9.13/conf/nginx.conf:2
+2016/04/07 10:48:10 [emerg] 8504#1052: no "events" section in configuration
+2016/04/07 10:55:36 [emerg] 5704#8640: "map" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:1
+2016/04/07 10:55:54 [emerg] 7716#6844: "upstream" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:3
+2016/04/07 10:58:19 [emerg] 9148#7784: no "events" section in configuration
+2016/04/07 10:58:38 [notice] 5796#9016: signal process started
+2016/04/07 10:59:05 [notice] 5620#8128: signal process started
+2016/04/07 10:59:05 [error] 5620#8128: CreateFile() "D:\nginx-1.9.13/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/04/07 11:01:41 [notice] 7612#8364: signal process started
+2016/04/07 11:07:49 [error] 8052#2816: *1211 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 192.168.0.243, server: , request: "GET / HTTP/1.1", upstream: "http://192.168.0.248:50601/", host: "192.168.0.243:50601"
+2016/04/07 11:09:12 [notice] 5652#7756: signal process started
+2016/04/07 11:09:20 [notice] 6916#8896: signal process started
+2016/04/07 11:09:20 [error] 6916#8896: CreateFile() "D:\nginx-1.9.13/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/04/07 11:33:09 [emerg] 5848#4604: bind() to 0.0.0.0:50601 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/04/07 11:35:03 [notice] 7488#3744: signal process started
+2016/04/07 11:35:03 [error] 7488#3744: CreateFile() "D:\nginx-1.9.13/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/04/07 11:35:23 [notice] 6404#4444: signal process started
+2016/04/07 11:36:41 [error] 8896#3100: *66 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 192.168.0.243, server: , request: "GET / HTTP/1.1", upstream: "http://192.168.0.248:50601/", host: "192.168.0.243:50601"
+2016/04/07 11:46:33 [error] 8896#3100: *1709 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 192.168.0.243, server: , request: "GET / HTTP/1.1", upstream: "http://192.168.0.248:50601/", host: "192.168.0.243:50601"
+2016/04/07 11:52:24 [emerg] 5128#8432: "server" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:8
+2016/04/07 11:55:28 [emerg] 5408#8400: "map" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:1
+2016/04/07 11:55:43 [emerg] 7388#7288: no "events" section in configuration
+2016/04/07 11:56:12 [notice] 8628#8432: signal process started
+2016/04/07 11:58:44 [notice] 7388#5752: signal process started
+2016/04/07 11:58:49 [notice] 7912#8960: signal process started
+2016/04/07 11:58:49 [error] 7912#8960: CreateFile() "D:\nginx-1.9.13/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/04/07 12:03:18 [emerg] 7876#1692: "map" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:1
+2016/04/07 12:04:17 [emerg] 8732#7132: "map" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:1
+2016/04/07 12:04:40 [emerg] 8196#7360: "upstream" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:2
+2016/04/07 12:04:58 [emerg] 2692#8124: no "events" section in configuration
+2016/04/07 12:05:23 [notice] 7472#8268: signal process started
+2016/04/07 13:10:05 [notice] 8096#7360: signal process started
+2016/04/07 13:10:57 [notice] 7260#4444: signal process started
+2016/04/07 13:11:34 [emerg] 8420#8840: "map" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:8
+2016/04/07 13:13:03 [emerg] 5156#3656: invalid URL prefix in D:\nginx-1.9.13/conf/nginx.conf:24
+2016/04/07 13:13:32 [emerg] 8152#5088: invalid number of arguments in "location" directive in D:\nginx-1.9.13/conf/nginx.conf:23
+2016/04/07 13:13:47 [notice] 6304#8612: signal process started
+2016/04/07 13:15:12 [notice] 8400#6652: signal process started
+2016/04/07 13:23:38 [notice] 8796#7560: signal process started
+2016/04/07 13:32:07 [emerg] 4816#6272: "map" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:8
+2016/04/07 13:32:27 [emerg] 7472#8856: "location" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:20
+2016/04/07 13:33:05 [emerg] 7172#2720: invalid host in upstream "http://websocket" in D:\nginx-1.9.13/conf/nginx.conf:21
+2016/04/07 13:34:07 [emerg] 9100#6740: "proxy_set_header" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:25
+2016/04/07 13:34:15 [emerg] 7228#7592: "proxy_http_version" directive is not allowed here in D:\nginx-1.9.13/conf/nginx.conf:28
+2016/04/07 13:34:33 [notice] 5236#5168: signal process started
+2016/04/07 14:03:36 [error] 8776#8476: *4929 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while proxying connection, client: 192.168.0.200, server: 192.168.0.243:50601, upstream: "192.168.0.248:50601", bytes from/to client:762/748, bytes from/to upstream:748/762
+2016/04/07 14:06:12 [notice] 4748#6280: signal process started
+2016/04/07 14:18:46 [notice] 8144#1416: signal process started
+2016/04/07 14:25:29 [notice] 5576#4080: signal process started
+2016/04/07 14:26:09 [notice] 6632#636: signal process started
+2016/04/07 14:29:04 [notice] 2992#8484: signal process started
+2016/04/07 14:29:16 [notice] 2440#8704: signal process started
+2016/04/07 14:29:16 [error] 2440#8704: CreateFile() "D:\nginx-1.9.13/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/04/07 14:29:29 [notice] 4936#9048: signal process started
+2016/04/07 14:31:19 [error] 8336#5236: *1 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while proxying connection, client: 192.168.0.200, server: 192.168.0.243:50601, upstream: "192.168.0.248:50601", bytes from/to client:62/48, bytes from/to upstream:48/62
+2016/04/07 14:32:19 [error] 7224#6688: *3 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 192.168.0.200, server: 192.168.0.243:50601, upstream: "192.168.0.248:50601", bytes from/to client:0/0, bytes from/to upstream:0/0
+2016/04/07 14:32:56 [notice] 8072#7612: signal process started
+2016/04/07 14:35:30 [notice] 8216#6568: signal process started
+2016/04/07 14:35:44 [notice] 9108#5168: signal process started
